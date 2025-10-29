@@ -1,0 +1,1 @@
+Βάλε εδώ τις εικόνες σου: machines-container-bg.jpg, machine-simple1.jpg, machine-simple2.jpg, machine-dashboard.jpg
